@@ -1,0 +1,7 @@
+ssh-keygen -t rsa -C "shekar@gmail.com"
+
+C:/spring start/world
+
+https://www.youtube.com/watch?v=mYjZtU1-u9Y
+
+C:/.git
